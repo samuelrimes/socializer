@@ -1,0 +1,30 @@
+body{
+	margin: 0 auto;
+}
+
+h1{
+	width: 100%;
+	color: blue;
+}
+
+.capa{
+	width: 100%;
+	height: 250px;
+	position: relative;
+	border-bottom: 1px solid #bdbdbd;
+}
+
+
+.perfil{
+	top: 170px;
+	left: 50%;
+	right: 50%;
+	width: 150px;
+	height: 150px;
+	border: 1px solid #bdbdbd;
+}
+
+form{
+	float: left;
+	display: inline;
+}

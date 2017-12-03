@@ -1,0 +1,40 @@
+@font-face {
+    font-family: 'indie_flower regular';
+		font-family: 'indie_flower', cursive;
+    src: url('indieflower-webfont.woff2') format('woff2'),
+         url('indieflower-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body{
+	margin: 0 auto;
+}
+
+h1{
+	width: 100%;
+	color: blue;
+}
+
+.principal{
+	text-align: center;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.capa{
+	width: 100%;
+	height: 250px;
+	position: relative;
+	border-bottom: 1px solid #bdbdbd;
+}
+
+.perfil{
+	top: 170px;
+	left: 50%;
+	right: 50%;
+	width: 150px;
+	height: 150px;
+	border: 1px solid #bdbdbd;
+}

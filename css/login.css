@@ -1,0 +1,64 @@
+body{
+	background-image: url("backlogin.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+
+}
+
+h1{
+	color: #fff;
+	margin: 0 auto;
+	margin-top: 100px;
+	padding-top: 10px;
+	background-color: #329;
+	height: 50px;
+	width: 110px;
+	text-align: center;
+	border-radius: 15px;
+}
+
+.login{
+	background-color: rgba(189, 189, 189, 0.3);
+	margin: 0 auto;
+	border: 2px solid #bdbdbd;
+	border-radius: 15px;
+	margin-top: 25px;
+	height: 150px;
+	width: 500px;
+	text-align: center;
+}
+
+form{
+	margin-top: 20px;
+}
+
+input{
+	border: none;
+	border-radius: 5px;
+	width: 200px;
+	height: 25px;
+	margin-bottom: 5px;
+}
+
+#entrar {
+	color: #fff;
+	background-color: #bdbdbd;
+	cursor: pointer;
+	transition: 0.5s;
+}
+
+#entrar:hover {
+	color: #fff;
+	background-color: #bdbdbd;
+	cursor: pointer;
+	filter: brightness(80%);
+}
+
+.entrar-cadastrar{
+	font-size: 1.2em;
+	color: #fff;
+	text-decoration: none;
+	cursor: pointer;
+	float: right;
+	margin-right: 5px;
+}

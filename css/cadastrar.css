@@ -1,0 +1,46 @@
+body{
+	background-image: url("backlogin.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+
+h1{
+	color: #fff;
+	width: 150px;
+	margin: 0  auto;
+	margin-top: 50px;
+	padding-top: 10px;
+	background-color: #329;
+	height: 50px;
+	text-align: center;
+	border-radius: 15px;
+}
+
+.cadastro{
+	color: #fff;
+	background-color: rgba(189, 189, 189, 0.3);
+	margin: 0 auto;
+	border: 2px solid #bdbdbd;
+	border-radius: 15px;
+	margin-top: 25px;
+	width: 500px;
+	text-align: center;
+}
+
+input{
+	border: none;
+	border-radius: 5px;
+	width: 200px;
+	height: 25px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+.botao{
+	font-size: 1.2em;
+	color: #fff;
+	text-decoration: none;
+	cursor: pointer;
+	float: right;
+	margin-right: 5px;
+}
